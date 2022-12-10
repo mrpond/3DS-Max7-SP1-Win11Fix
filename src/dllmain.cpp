@@ -10,7 +10,7 @@ BOOL APIENTRY DllMain (HMODULE hModule,
 	DisableThreadLibraryCalls (hModule);
 	std::string_view procname = GetCommandLine ();
 	// only 3dsmax process - this help avoid false positive
-	if (std::string_view::npos != procname.find ("3dsmax.exe")) {
+	if (std::string_view::npos != procname.find ("3dsmax_fix.exe")) {
 		switch (ul_reason_for_call)
 		{
 		case DLL_PROCESS_ATTACH:
