@@ -1,0 +1,5 @@
+LIBRARY	"UIControls"
+
+EXPORTS
+InitializeCustomUI
+ShutdownCustomUI
