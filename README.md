@@ -22,4 +22,6 @@ https://maxplugins.de/max8.php?search=dxdds&sort=Author
 
 if you like my hotfix, consider donate something to any verified charity you like/prefer.
 
-MrPond
+Mr.Pond
+
+<img width="1271" alt="image" src="https://user-images.githubusercontent.com/18654771/206878134-a18724ae-6079-4c2e-89c5-b38af95de370.png">
