@@ -7,10 +7,16 @@ Fix for 3DS Max7 SP1 on modern windows!
 optional: compile the project
 
 1.find your 3dsmax7 sp1 installation folder
+
 2.and replace UIControls.dll and stdplugs folder from 7z in this repo.
+
 3.copy 3dsmax.exe to 3dsmax_fix.exe
+
 4.right click 3dsmax_fix.exe change its properties settings to run as admin.
+
 credit: https://www.youtube.com/watch?v=HJv-PEc7a60
+
+
 everything working.
 
 
